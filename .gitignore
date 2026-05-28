@@ -1,0 +1,8 @@
+@"
+*.exe
+*.zip
+*.7z
+*.rar
+*.pyc
+__pycache__/
+"@ | Out-File -Encoding utf8 .gitignore

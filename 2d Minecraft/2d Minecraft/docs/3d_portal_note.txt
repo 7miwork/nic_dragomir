@@ -1,0 +1,2 @@
+Hier wird später der Code für den speziellen Portal zur 3D-Welt eingefügt.
+Wenn der Spieler das Portal betritt, soll die 3D-Welt geladen werden.
